@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am learning **Java**. I have learned python.
+I like _GNU/Linux systems_ so i learned how to use them. 
